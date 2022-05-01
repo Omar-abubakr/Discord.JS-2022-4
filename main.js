@@ -48,4 +48,4 @@ bot.on('message', message => {
         bot.commands.get('rules').execute(message, args)
     }
 }),
-bot.login("OTE1MTkwMTc3MDc1NDM3NTY4.YaX_RQ.ido58WrNTJm4KGQBWf-NbBJZAjY")
+bot.login("BOT_TOKEN")
